@@ -19,5 +19,5 @@ cookie的cookiememeMe已通过AES-128-CBC模式加密，这很容易受到填充
 
 ### 0x04 参考链接
 
-https://issues.apache.org/jira/browse/SHIRO-721
-http://www.svenbeast.com/post/-leT8b8Kh/
+* https://issues.apache.org/jira/browse/SHIRO-721
+* http://www.svenbeast.com/post/-leT8b8Kh/
